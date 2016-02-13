@@ -23,6 +23,8 @@ menu_icons:
   archives: archive
   commonweal: heartbeat
 
+# analytics
+google_analytics: UA-73103396-2
 
 # Place your favicon.ico to /source directory.
 favicon: /favicon.ico
