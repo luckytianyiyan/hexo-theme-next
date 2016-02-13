@@ -1,8 +1,8 @@
 # when running hexo in a subdirectory (e.g. domain.tld/blog), remove leading slashes ( "/archives" -> "archives" )
 menu:
   home: /
-  #categories: /categories
-  #about: /about
+  categories: /categories
+  about: /about
   archives: /archives
   tags: /tags
   #commonweal: /404.html
@@ -26,6 +26,20 @@ menu_icons:
 
 # Place your favicon.ico to /source directory.
 favicon: /favicon.ico
+
+# Social
+social:
+  Git@OSC: http://git.oschina.net/luckytianyiyan
+  GitHub: https://github.com/luckytianyiyan
+
+# Creative commons
+creative_commons: by-nc
+
+# Swiftype Search Key
+swiftype_key: EwPKWb94Pvz6DJWAAjqu
+
+# avatar
+avatar: /images/portrait.png
 
 # Set default keywords (Use a comma to separate)
 keywords: "Hexo,next"
@@ -57,7 +71,7 @@ mathjax:
 
 
 # Schemes
-#scheme: Mist
+scheme: Mist
 
 
 # Sidebar, available value:
@@ -85,7 +99,7 @@ toc:
 
 # Automatically Excerpt
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 # Use Lato font
