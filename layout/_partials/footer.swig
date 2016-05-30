@@ -19,4 +19,8 @@
   </a>
 </div>
 
+<div class="theme-info">
+  TP:D313E9F1
+</div>
+
 {% block footer %}{% endblock %}
