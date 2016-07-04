@@ -49,6 +49,8 @@ menu_icons:
   tags: tags
   archives: archive
   commonweal: heartbeat
+  status: github
+  works: flask
 
 # analytics
 google_analytics: UA-73103396-2
