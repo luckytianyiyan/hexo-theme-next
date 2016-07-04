@@ -224,7 +224,7 @@ mathjax:
   cdn: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 # Schemes
-scheme: Muse
+scheme: Mist
 # Swiftype Search API Key
 swiftype_key: EwPKWb94Pvz6DJWAAjqu
 
